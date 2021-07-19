@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rainbowTheme compatibility="1.0" basename="pinkyChat" app="Pinky Live Chat" url="http://prothemes.biz/">
+    <themeDetails>
+        <name>Default Theme</name>
+        <themeBaseName>default-theme</themeBaseName>
+        <description>Default template for Pinky Live Chat</description>
+        <version>1.0</version>
+        <author>Balaji</author>
+        <authorEmail>rainbowbalajib@gmail.com</authorEmail>
+        <authorWebsite>https://prothemes.biz/</authorWebsite>
+        <copyright>Copyright &#169; 2019 ProThemes.Biz</copyright>
+        <preview>img/preview.png</preview>
+        <builder>builder/client/default/default-theme</builder>
+    </themeDetails>
+</rainbowTheme>
