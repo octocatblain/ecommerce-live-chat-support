@@ -1,7 +1,7 @@
 <h1 align="center">:shopping: Live Chat Support for eCommerce websites :shopping_cart:</h1>
 This chatbot software provides a more intelligent approach to handle customer care. This is a live chat and support desk tool for your websites. You may communicate with your customers in real time over the web, which is also mobile friendly. You may also track website analytics, visitor paths, and geolocation information.
 
-** :pushpin: NOTE:**
+:pushpin: **NOTE:**
 > Live Chat widget works with any website – Static HTML websites, [WordPress](https://wordpress.org/), [OpenCart](https://www.opencart.com/), [Joomla](https://www.joomla.org/), [Drupal](https://www.drupal.org/), PHP Scripts e.t.c
 
 ## :gear: Unique Features to Look Out For
@@ -30,7 +30,7 @@ This chatbot software provides a more intelligent approach to handle customer ca
 - Ban unwanted user IP address functionality
 - Easy Installer Panel
 
-##:cd: Installation Requirements (How to run basics)
+## :cd: Installation Requirements (How to run basics)
 - PHP 5.4.0 or above
 - PDO and MySQLI extension
 - GD Extension
